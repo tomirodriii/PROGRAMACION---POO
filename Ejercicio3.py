@@ -19,8 +19,10 @@ class CuentaBanco:
 cuenta1 = CuentaBanco("Tomás", 1000000)
 cuenta2 = CuentaBanco("Ramiro", 200000)
 cuenta3 = CuentaBanco("Juan", 100000)
+cuenta4 = CuentaBanco("Lolo", 4000000)
+cuenta5 = CuentaBanco("Lolo", 800000)
     
-cuentas = (cuenta1, cuenta2, cuenta3)
+cuentas = (cuenta1, cuenta2, cuenta3, cuenta4, cuenta5)
     
 for cuenta in cuentas:
         cuenta.depositar(300)
