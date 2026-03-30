@@ -1,6 +1,5 @@
 #  Ejercicio 1: Clase Persona + Lista y Ciclo
-#    Objetivo: Crear una lista de personas y mostrar su información usando un ciclo.
-
+#  Objetivo: Crear una lista de personas y mostrar su información usando un ciclo.
 
 import os
 os.system("cls")
