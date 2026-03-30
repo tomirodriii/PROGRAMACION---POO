@@ -3,3 +3,5 @@
 
 import os
 os.system("cls")
+
+class Rectangulo:
